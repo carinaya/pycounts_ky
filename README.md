@@ -1,4 +1,5 @@
 # pycounts_ky
+[![codecov](https://codecov.io/gh/carinaya/pycounts_ky/graph/badge.svg?token=KE1CLTV2H6)](https://codecov.io/gh/carinaya/pycounts_ky)
 
 Calculate word counts in a text file!
 
